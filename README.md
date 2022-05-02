@@ -15,3 +15,4 @@ ___
 
 **Ссылка на фронтенд:**
 <https://mesto-frontend.herokuapp.com/>
+долго открывается
